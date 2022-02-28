@@ -1,2 +1,3 @@
 pierwszy plik
 pierwsza linia 
+trzecia linia
